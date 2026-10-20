@@ -1,0 +1,25 @@
+# Config and validation
+python-dotenv
+pydantic>=2.13
+
+# Ingest
+httpx
+tenacity
+beautifulsoup4
+lxml
+pandas
+langchain-text-splitters
+
+# Graph
+neo4j
+langchain-neo4j
+
+# LLM and agent
+boto3
+langchain>=1.0
+langchain-core
+langchain-aws
+langgraph
+
+# Testing
+pytest
