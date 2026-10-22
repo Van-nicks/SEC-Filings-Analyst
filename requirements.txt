@@ -16,10 +16,12 @@ langchain-neo4j
 
 # LLM and agent
 boto3
+botocore[crt]
 langchain>=1.0
 langchain-core
 langchain-aws
 langgraph
+edgartools
 
 # Testing
 pytest
