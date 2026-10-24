@@ -1,8 +1,28 @@
+# Secrets and environment
 .env
+.env.*
+!.env.example
+
+# Virtual environments
 .venv/
+venv/
+
+# Python
 __pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# IDE and tools
+.idea/
+.DS_Store
 .gemini/
 .agents/
-.idea/
-.DS_Store/
-.git/
+skills/
+
+# Data (regenerable)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/facts.csv

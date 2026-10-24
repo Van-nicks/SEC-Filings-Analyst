@@ -20,6 +20,7 @@ botocore[crt]
 langchain>=1.0
 langchain-core
 langchain-aws
+langchain_community
 langgraph
 edgartools
 
