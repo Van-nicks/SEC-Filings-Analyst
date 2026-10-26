@@ -41,9 +41,15 @@ def _eval_ast(node: ast.AST) -> float:
     if isinstance(node, ast.UnaryOp) and type(node.op) in _ALLOWED_UNARY_OPS:
         return _ALLOWED_UNARY_OPS[type(node.op)](_eval_ast(node.operand))
     if isinstance(node, ast.Call) and isinstance(node.func, ast.Name) and node.func.id in _ALLOWED_FUNCS:
+        fn = _ALLOWED_FUNCS[node.func.id]
         args = [_eval_ast(a) for a in node.args]
-        return float(_ALLOWED_FUNCS[node.func.id](*args))
+        if node.func.id == "round" and len(args) == 2:
+            return float(fn(args[0], int(args[1])))
+        return float(fn(*args))
     raise ValueError(f"Unsupported expression element: {ast.dump(node)}")
+
+
+_THOUSANDS_COMMA_RE = re.compile(r"(?<=\d),(?=\d{3}\b)")
 
 
 @tool
@@ -56,7 +62,7 @@ def calculator(expression: str) -> str:
       - Net margin %: '112010000000 / 416161000000 * 100'
       - Difference:   '416161000000 - 391035000000'
     """
-    cleaned = expression.replace(",", "").replace("$", "").replace("%", "").strip()
+    cleaned = _THOUSANDS_COMMA_RE.sub("", expression).replace("$", "").strip()
     try:
         tree = ast.parse(cleaned, mode="eval")
         result = _eval_ast(tree.body)
