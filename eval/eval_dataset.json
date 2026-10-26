@@ -1,0 +1,281 @@
+[
+  {
+    "id": "Q01",
+    "category": "fact_lookup",
+    "question": "What was Apple's total revenue in fiscal year 2025?",
+    "ground_truth": "Apple's FY2025 revenue was $416,161,000,000 ($416.161 billion).",
+    "expected_sources": ["AAPL-revenue-2025"],
+    "expected_tickers": ["AAPL"],
+    "expected_numbers": [416161000000.0]
+  },
+  {
+    "id": "Q02",
+    "category": "fact_lookup",
+    "question": "What was Apple's net income in fiscal year 2024?",
+    "ground_truth": "Apple's FY2024 net income was $93,736,000,000 ($93.736 billion).",
+    "expected_sources": ["AAPL-net_income-2024"],
+    "expected_tickers": ["AAPL"],
+    "expected_numbers": [93736000000.0]
+  },
+  {
+    "id": "Q03",
+    "category": "fact_lookup",
+    "question": "What were Microsoft's total assets for fiscal year 2026?",
+    "ground_truth": "Microsoft's total assets for FY2026 were $758,376,000,000 ($758.376 billion).",
+    "expected_sources": ["MSFT-total_assets-2026"],
+    "expected_tickers": ["MSFT"],
+    "expected_numbers": [758376000000.0]
+  },
+  {
+    "id": "Q04",
+    "category": "fact_lookup",
+    "question": "What was Microsoft's revenue for fiscal year 2025?",
+    "ground_truth": "Microsoft's FY2025 revenue was $281,724,000,000 ($281.724 billion).",
+    "expected_sources": ["MSFT-revenue-2025"],
+    "expected_tickers": ["MSFT"],
+    "expected_numbers": [281724000000.0]
+  },
+  {
+    "id": "Q05",
+    "category": "fact_lookup",
+    "question": "What was NVIDIA's net income in fiscal year 2026?",
+    "ground_truth": "NVIDIA's FY2026 net income was $120,067,000,000 ($120.067 billion).",
+    "expected_sources": ["NVDA-net_income-2026"],
+    "expected_tickers": ["NVDA"],
+    "expected_numbers": [120067000000.0]
+  },
+  {
+    "id": "Q06",
+    "category": "fact_lookup",
+    "question": "What were NVIDIA's total assets in fiscal year 2025?",
+    "ground_truth": "NVIDIA's total assets for FY2025 were $111,601,000,000 ($111.601 billion).",
+    "expected_sources": ["NVDA-total_assets-2025"],
+    "expected_tickers": ["NVDA"],
+    "expected_numbers": [111601000000.0]
+  },
+  {
+    "id": "Q07",
+    "category": "fact_lookup",
+    "question": "What was Amazon's revenue in fiscal year 2025?",
+    "ground_truth": "Amazon's FY2025 revenue was $716,924,000,000 ($716.924 billion).",
+    "expected_sources": ["AMZN-revenue-2025"],
+    "expected_tickers": ["AMZN"],
+    "expected_numbers": [716924000000.0]
+  },
+  {
+    "id": "Q08",
+    "category": "fact_lookup",
+    "question": "What was Amazon's net income in fiscal year 2024?",
+    "ground_truth": "Amazon's FY2024 net income was $59,248,000,000 ($59.248 billion).",
+    "expected_sources": ["AMZN-net_income-2024"],
+    "expected_tickers": ["AMZN"],
+    "expected_numbers": [59248000000.0]
+  },
+  {
+    "id": "Q09",
+    "category": "fact_lookup",
+    "question": "What was Tesla's revenue in fiscal year 2025?",
+    "ground_truth": "Tesla's FY2025 revenue was $94,827,000,000 ($94.827 billion).",
+    "expected_sources": ["TSLA-revenue-2025"],
+    "expected_tickers": ["TSLA"],
+    "expected_numbers": [94827000000.0]
+  },
+  {
+    "id": "Q10",
+    "category": "fact_lookup",
+    "question": "What were Tesla's total assets for fiscal year 2024 and 2025?",
+    "ground_truth": "Tesla reported total assets of $122,070,000,000 ($122.070 billion) in FY2024 and $137,806,000,000 ($137.806 billion) in FY2025.",
+    "expected_sources": ["TSLA-total_assets-2024", "TSLA-total_assets-2025"],
+    "expected_tickers": ["TSLA"],
+    "expected_numbers": [122070000000.0, 137806000000.0]
+  },
+  {
+    "id": "Q11",
+    "category": "calculation",
+    "question": "What was Apple's year-over-year revenue growth percentage from fiscal year 2024 to 2025?",
+    "ground_truth": "Apple's revenue grew by approximately 6.43% (exact: 6.4255%) from FY2024 ($391.035B) to FY2025 ($416.161B).",
+    "expected_sources": ["AAPL-revenue-2024", "AAPL-revenue-2025"],
+    "expected_tickers": ["AAPL"],
+    "expected_numbers": [6.43]
+  },
+  {
+    "id": "Q12",
+    "category": "calculation",
+    "question": "What was NVIDIA's year-over-year revenue growth percentage from fiscal year 2025 to 2026?",
+    "ground_truth": "NVIDIA's revenue grew by approximately 65.47% (exact: 65.4735%) from FY2025 ($130.497B) to FY2026 ($215.938B).",
+    "expected_sources": ["NVDA-revenue-2025", "NVDA-revenue-2026"],
+    "expected_tickers": ["NVDA"],
+    "expected_numbers": [65.47]
+  },
+  {
+    "id": "Q13",
+    "category": "calculation",
+    "question": "What was Microsoft's net profit margin in fiscal year 2026?",
+    "ground_truth": "Microsoft's net profit margin in FY2026 was approximately 40.31% (net income $133.749B divided by revenue $331.839B).",
+    "expected_sources": ["MSFT-net_income-2026", "MSFT-revenue-2026"],
+    "expected_tickers": ["MSFT"],
+    "expected_numbers": [40.31]
+  },
+  {
+    "id": "Q14",
+    "category": "calculation",
+    "question": "What was Tesla's net profit margin in fiscal year 2025?",
+    "ground_truth": "Tesla's net profit margin in FY2025 was approximately 4.00% (net income $3.794B divided by revenue $94.827B).",
+    "expected_sources": ["TSLA-net_income-2025", "TSLA-revenue-2025"],
+    "expected_tickers": ["TSLA"],
+    "expected_numbers": [4.0]
+  },
+  {
+    "id": "Q15",
+    "category": "comparison",
+    "question": "Which company had the highest total revenue in fiscal year 2025 among Apple, Amazon, and Tesla?",
+    "ground_truth": "Amazon had the highest FY2025 revenue at $716.924B, followed by Apple ($416.161B) and Tesla ($94.827B).",
+    "expected_sources": ["AMZN-revenue-2025", "AAPL-revenue-2025", "TSLA-revenue-2025"],
+    "expected_tickers": ["AMZN", "AAPL", "TSLA"],
+    "expected_numbers": [716924000000.0, 416161000000.0, 94827000000.0]
+  },
+  {
+    "id": "Q16",
+    "category": "calculation",
+    "question": "By how much did Apple's net income exceed NVIDIA's net income in fiscal year 2025?",
+    "ground_truth": "Apple's FY2025 net income ($112.010B) exceeded NVIDIA's FY2025 net income ($72.880B) by $39,130,000,000 ($39.130 billion).",
+    "expected_sources": ["AAPL-net_income-2025", "NVDA-net_income-2025"],
+    "expected_tickers": ["AAPL", "NVDA"],
+    "expected_numbers": [39130000000.0]
+  },
+  {
+    "id": "Q17",
+    "category": "calculation",
+    "question": "What was the combined total revenue of all 5 companies in fiscal year 2025?",
+    "ground_truth": "The combined FY2025 revenue across all 5 companies was $1,640,133,000,000 (about $1,640.133 billion or $1.64 trillion).",
+    "expected_sources": [
+      "AAPL-revenue-2025",
+      "MSFT-revenue-2025",
+      "NVDA-revenue-2025",
+      "AMZN-revenue-2025",
+      "TSLA-revenue-2025"
+    ],
+    "expected_tickers": ["AAPL", "MSFT", "NVDA", "AMZN", "TSLA"],
+    "expected_numbers": [1640133000000.0]
+  },
+  {
+    "id": "Q18",
+    "category": "calculation",
+    "question": "Did Tesla's revenue increase or decrease from 2024 to 2025, and by how much?",
+    "ground_truth": "Tesla's revenue decreased by $2,863,000,000 ($2.863 billion or approximately 2.93%) from $97.690B in FY2024 to $94.827B in FY2025.",
+    "expected_sources": ["TSLA-revenue-2024", "TSLA-revenue-2025"],
+    "expected_tickers": ["TSLA"],
+    "expected_numbers": [2863000000.0, 2.93]
+  },
+  {
+    "id": "Q19",
+    "category": "qualitative_risk",
+    "question": "What does Apple's 10-K state regarding its component suppliers and single-source dependencies?",
+    "ground_truth": "Apple discloses that although most components are available from multiple sources, certain components are obtained from single or limited sources. It also notes that supply shortages or price increases can adversely affect operations.",
+    "expected_sources": ["AAPL-0000320193-25-000079-business-010"],
+    "expected_tickers": ["AAPL"],
+    "expected_numbers": []
+  },
+  {
+    "id": "Q20",
+    "category": "qualitative_risk",
+    "question": "What export control restrictions does NVIDIA describe regarding serving international customers?",
+    "ground_truth": "NVIDIA states that over the past three years it has been subject to shifting and expanding U.S. government export controls and licensing requirements, impacting its ability to serve customers outside the U.S. (notably in China and other restricted regions).",
+    "expected_sources": ["NVDA-0001045810-26-000021-risk_factors-111"],
+    "expected_tickers": ["NVDA"],
+    "expected_numbers": []
+  },
+  {
+    "id": "Q21",
+    "category": "qualitative_risk",
+    "question": "What specific AI risks does Microsoft identify regarding autonomous or agentic AI systems?",
+    "ground_truth": "Microsoft identifies risks that autonomous agentic AI systems and companion-style AI could lead to harmful over-reliance, unreviewed actions, or incidents harming individuals and society, creating legal, regulatory, and reputational liability.",
+    "expected_sources": ["MSFT-0001193125-26-323660-risk_factors-057"],
+    "expected_tickers": ["MSFT"],
+    "expected_numbers": []
+  },
+  {
+    "id": "Q22",
+    "category": "qualitative_risk",
+    "question": "What does Amazon disclose regarding suppliers for AI-related hardware and chips?",
+    "ground_truth": "Amazon's Risk Factors disclose that it relies on a limited group of suppliers for key hardware, including chips used for artificial intelligence and machine learning applications, and shortages could impede AWS and its AI initiatives.",
+    "expected_sources": ["AMZN-0001018724-26-000004-risk_factors-050"],
+    "expected_tickers": ["AMZN"],
+    "expected_numbers": []
+  },
+  {
+    "id": "Q23",
+    "category": "qualitative_risk",
+    "question": "How does Tesla describe its Full Self-Driving (FSD) technology in its 10-K Business section?",
+    "ground_truth": "Tesla describes leveraging developments in its proprietary Full Self-Driving ('FSD') (Supervised) features, vehicle software, and battery cell technologies for electric vehicles and future vehicle markets.",
+    "expected_sources": ["TSLA-0001628280-26-003952-business-005"],
+    "expected_tickers": ["TSLA"],
+    "expected_numbers": []
+  },
+  {
+    "id": "Q24",
+    "category": "qualitative_risk",
+    "question": "What risk does Tesla explicitly disclose regarding delays in launching products based on artificial intelligence?",
+    "ground_truth": "Tesla states in its Risk Factors that it has experienced, and may experience future delays in launching and ramping production of new vehicles and future products, features and services based on artificial intelligence.",
+    "expected_sources": ["TSLA-0001628280-26-003952-risk_factors-004"],
+    "expected_tickers": ["TSLA"],
+    "expected_numbers": []
+  },
+  {
+    "id": "Q25",
+    "category": "qualitative_risk",
+    "question": "Which companies mention compliance with European Union (EU) AI regulations as a risk factor?",
+    "ground_truth": "Microsoft and NVIDIA both explicitly disclose compliance with European Union AI regulations (such as the EU's AI Act and European Union Code of Practice for General Purpose AI) as risks that could increase costs, create reporting requirements, or restrict operations.",
+    "expected_sources": [
+      "MSFT-0001193125-26-323660-risk_factors-079",
+      "NVDA-0001045810-26-000021-risk_factors-137"
+    ],
+    "expected_tickers": ["MSFT", "NVDA"],
+    "expected_numbers": []
+  },
+  {
+    "id": "Q26",
+    "category": "out_of_graph",
+    "question": "What was Alphabet (Google)'s revenue in fiscal year 2025?",
+    "ground_truth": "Alphabet (Google) is not present in the SEC 10-K graph dataset. The graph only contains data for Apple (AAPL), Microsoft (MSFT), NVIDIA (NVDA), Amazon (AMZN), and Tesla (TSLA).",
+    "expected_sources": [],
+    "expected_tickers": [],
+    "expected_numbers": []
+  },
+  {
+    "id": "Q27",
+    "category": "out_of_graph",
+    "question": "What was Apple's total revenue in fiscal year 2020?",
+    "ground_truth": "Apple's fiscal year 2020 revenue is not available in the graph. The graph only contains Apple's financial facts for fiscal years 2024 and 2025 from its latest 10-K.",
+    "expected_sources": [],
+    "expected_tickers": ["AAPL"],
+    "expected_numbers": []
+  },
+  {
+    "id": "Q28",
+    "category": "out_of_graph",
+    "question": "What is Tesla's stock price today?",
+    "ground_truth": "Current real-time stock price data is not present in the Neo4j graph. The dataset only contains annual SEC 10-K filing metrics (revenue, net income, total assets) and text chunks.",
+    "expected_sources": [],
+    "expected_tickers": ["TSLA"],
+    "expected_numbers": []
+  },
+  {
+    "id": "Q29",
+    "category": "out_of_graph",
+    "question": "What was Microsoft's total operating expenses in fiscal year 2026?",
+    "ground_truth": "Total operating expenses is not an explicit metric stored in the graph. The graph only stores revenue, net income, and total assets. An approximation can be computed as revenue minus net income, but must be labeled as an approximation.",
+    "expected_sources": [],
+    "expected_tickers": ["MSFT"],
+    "expected_numbers": []
+  },
+  {
+    "id": "Q30",
+    "category": "scope_brevity",
+    "question": "Give me the names of all the companies you have data for.",
+    "ground_truth": "Apple (AAPL), Microsoft (MSFT), NVIDIA (NVDA), Amazon (AMZN), and Tesla (TSLA).",
+    "expected_sources": [],
+    "expected_tickers": ["AAPL", "MSFT", "NVDA", "AMZN", "TSLA"],
+    "expected_numbers": []
+  }
+]

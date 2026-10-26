@@ -27,3 +27,5 @@ edgartools
 
 # Testing
 pytest
+ragas
+datasets
