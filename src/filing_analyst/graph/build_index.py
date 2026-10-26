@@ -1,8 +1,8 @@
-"""One-time build of the Neo4j vector index from data/processed/facts.csv.
+"""One-time build of the Neo4j vector index of 10-K text chunks (data/raw/*.txt).
 
 Run once:
     python -m filing_analyst.graph.build_index           # builds only if needed
-    python -m filing_analyst.graph.build_index --force   # wipe FactChunk nodes + index, rebuild
+    python -m filing_analyst.graph.build_index --force   # wipe Chunk nodes + index, rebuild
 
 Embedding with Bedrock costs money, so the build is skipped when the index
 already exists and holds the expected number of chunks.
@@ -24,7 +24,7 @@ from filing_analyst.llm.models import get_embeddings
 
 
 def index_status() -> tuple[bool, int]:
-    """Return (index_exists, number_of_FactChunk_nodes). Plain Neo4j queries; no Bedrock calls."""
+    """Return (index_exists, number_of_NODE_LABEL_nodes). Plain Neo4j queries; no Bedrock calls."""
     driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USERNAME, NEO4J_PASSWORD))
     with driver:
         records, _, _ = driver.execute_query(
@@ -46,7 +46,7 @@ def build_index(force: bool = False):
             return None
         if exists:
             print(
-                f"Index '{INDEX_NAME}' exists but holds {count} chunks while facts.csv produces "
+                f"Index '{INDEX_NAME}' exists but holds {count} chunks while data/raw produces "
                 f"{len(docs)}. Skipping to avoid unintended Bedrock cost; re-run with --force to rebuild."
             )
             return None
@@ -62,6 +62,7 @@ def build_index(force: bool = False):
         password=NEO4J_PASSWORD,
         index_name=INDEX_NAME,
         node_label=NODE_LABEL,
+        ids=[d.metadata["chunk_id"] for d in docs],  # stable IDs, e.g. AAPL-<accession>-risk_factors-007
         pre_delete_collection=force,  # False (default behaviour) unless --force
     )
     print("Success! Your Docker Neo4j instance is populated and indexed.")
@@ -70,7 +71,7 @@ def build_index(force: bool = False):
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Build the Neo4j vector index (run once).")
-    parser.add_argument("--force", action="store_true", help="wipe existing FactChunk nodes/index and rebuild")
+    parser.add_argument("--force", action="store_true", help="wipe existing Chunk nodes/index and rebuild")
     args = parser.parse_args()
     build_index(force=args.force)
 

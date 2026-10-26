@@ -26,3 +26,4 @@ data/raw/*
 data/processed/*
 !data/processed/.gitkeep
 !data/processed/facts.csv
+!data/processed/risk_labels.jsonl

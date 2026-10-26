@@ -2,7 +2,7 @@
 
 Work in progress: GraphRAG pipeline for SEC 10-K filings (EDGAR ingestion, Neo4j graph, Bedrock LLM, LangGraph agent)
 
-Status: Objective 1 (fetch) done; chunking and graph build in progress
+Status: Ingestion, chunking, vector index, and Neo4j knowledge graph (`Company`, `Filing`, `Fact`, `Chunk`, `RiskCategory`) complete; LangGraph agent next.
 
 ## Setup
 
@@ -35,19 +35,31 @@ python -m filing_analyst.ingest.sec_fetch
 
 ## Build the vector index (run once)
 
-Embeds `data/processed/facts.csv` with Bedrock Titan and stores it in Neo4j. Skips automatically if the index is already built; use `--force` to wipe the `FactChunk` nodes and rebuild:
+Chunks the 10-K text in `data/raw/*.txt` (with metadata from `*_meta.json`), embeds it with Bedrock Titan and stores it in Neo4j as `Chunk` nodes. Skips automatically if the index is already built; use `--force` to wipe the `Chunk` nodes and rebuild:
 
 ```bash
 python -m filing_analyst.graph.build_index [--force]
 ```
 
+## Connect the knowledge graph & risk categories (run once)
+
+Loads `Company`, `Filing`, and numeric `Fact` nodes from `data/processed/facts.csv`, classifies `risk_factors` chunks into `RiskCategory` nodes (cached in `data/processed/risk_labels.jsonl`), and links `:FILED`, `:REPORTS`, `:HAS_CHUNK`, and `:MENTIONS_RISK`:
+
+```bash
+python -m filing_analyst.graph.load_facts
+```
+
 ## Query (every request)
 
-Connects to the existing index and embeds only the question text:
+Connects to the existing graph/index and embeds only the question text:
 
 ```python
-from filing_analyst.graph.retriever import retrieve
+from filing_analyst.graph.retriever import retrieve, search_chunks, query_facts, query_companies_by_risk
+
 docs = retrieve("What was Apple's revenue in 2024?")
+facts = query_facts(ticker="AAPL", metric="revenue")
+risks = query_companies_by_risk("supply_chain")
+chunks = search_chunks("China GPU restrictions", ticker="NVDA", risk_category="export_controls_and_geopolitics")
 ```
 
 Quick manual test: `python -m filing_analyst.graph.retriever`

@@ -3,14 +3,11 @@ import csv
 import json
 import logging
 import os
-from pathlib import Path
 
 from dotenv import load_dotenv
 from edgar import Company, set_identity
 
-ROOT = Path(__file__).resolve().parents[3]  # project root
-RAW_DIR = ROOT / "data" / "raw"
-PROCESSED_DIR = ROOT / "data" / "processed"
+from filing_analyst.config import PROCESSED_DIR, PROJECT_ROOT, RAW_DIR
 
 TICKERS = ["AAPL", "MSFT", "NVDA", "AMZN", "TSLA"]
 SECTIONS = {"Item 1": "business", "Item 1A": "risk_factors"}
@@ -79,7 +76,7 @@ def extract_facts(tenk, meta: dict) -> list[dict]:
 
 def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
-    load_dotenv(ROOT / ".env")
+    load_dotenv(PROJECT_ROOT / ".env")
     identity = os.getenv("EDGAR_IDENTITY")
     if not identity:
         raise SystemExit("Set EDGAR_IDENTITY in .env, e.g. 'Your Name your@email.com'")

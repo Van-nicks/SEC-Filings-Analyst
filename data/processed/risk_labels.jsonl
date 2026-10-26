@@ -1,0 +1,585 @@
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-000", "categories": []}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-001", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-002", "categories": ["macroeconomic_and_financial", "supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-003", "categories": ["macroeconomic_and_financial", "supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-004", "categories": ["export_controls_and_geopolitics", "climate_and_disasters"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-005", "categories": ["export_controls_and_geopolitics", "supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-006", "categories": ["export_controls_and_geopolitics", "supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-007", "categories": ["export_controls_and_geopolitics", "macroeconomic_and_financial", "climate_and_disasters"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-008", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-009", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-010", "categories": ["climate_and_disasters", "cybersecurity_and_data", "supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-011", "categories": ["climate_and_disasters", "supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-012", "categories": ["cybersecurity_and_data", "climate_and_disasters", "supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-013", "categories": ["cybersecurity_and_data", "supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-014", "categories": ["competition_and_demand", "macroeconomic_and_financial"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-015", "categories": ["competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-016", "categories": ["competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-017", "categories": ["intellectual_property", "regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-018", "categories": ["intellectual_property"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-019", "categories": ["competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-020", "categories": ["competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-021", "categories": ["competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-022", "categories": ["competition_and_demand", "supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-023", "categories": ["supply_chain", "product_quality_and_liability"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-024", "categories": ["supply_chain", "product_quality_and_liability"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-025", "categories": ["supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-026", "categories": ["supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-027", "categories": ["supply_chain", "product_quality_and_liability"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-028", "categories": ["supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-029", "categories": ["supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-030", "categories": ["supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-031", "categories": ["supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-032", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-033", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-034", "categories": ["cybersecurity_and_data", "product_quality_and_liability"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-035", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-036", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-037", "categories": ["supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-038", "categories": ["intellectual_property"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-039", "categories": ["intellectual_property"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-040", "categories": ["workforce_and_governance"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-041", "categories": ["competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-042", "categories": ["competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-043", "categories": ["competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-044", "categories": ["competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-045", "categories": ["competition_and_demand", "workforce_and_governance"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-046", "categories": ["workforce_and_governance", "regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-047", "categories": ["workforce_and_governance", "regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-048", "categories": ["workforce_and_governance"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-049", "categories": ["supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-050", "categories": ["cybersecurity_and_data", "climate_and_disasters"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-051", "categories": ["cybersecurity_and_data", "climate_and_disasters"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-052", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-053", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-054", "categories": ["cybersecurity_and_data", "export_controls_and_geopolitics"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-055", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-056", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-057", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-058", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-059", "categories": ["competition_and_demand", "regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-060", "categories": ["competition_and_demand", "regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-061", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-062", "categories": ["intellectual_property", "regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-063", "categories": ["regulation_and_legal", "intellectual_property"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-064", "categories": ["regulation_and_legal", "intellectual_property"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-065", "categories": ["regulation_and_legal", "intellectual_property"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-066", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-067", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-068", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-069", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-070", "categories": ["regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-071", "categories": ["regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-072", "categories": ["regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-073", "categories": ["regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-074", "categories": ["regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-075", "categories": ["regulation_and_legal", "cybersecurity_and_data"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-076", "categories": ["regulation_and_legal", "competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-077", "categories": ["regulation_and_legal", "competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-078", "categories": ["regulation_and_legal", "competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-079", "categories": ["regulation_and_legal", "competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-080", "categories": ["regulation_and_legal", "competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-081", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-082", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-083", "categories": ["regulation_and_legal", "cybersecurity_and_data"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-084", "categories": ["regulation_and_legal", "cybersecurity_and_data"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-085", "categories": ["regulation_and_legal", "macroeconomic_and_financial"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-086", "categories": ["macroeconomic_and_financial", "competition_and_demand", "supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-087", "categories": ["macroeconomic_and_financial", "competition_and_demand", "supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-088", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-089", "categories": []}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-090", "categories": ["macroeconomic_and_financial", "supply_chain"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-091", "categories": ["regulation_and_legal", "macroeconomic_and_financial"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-092", "categories": ["supply_chain", "competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-093", "categories": ["supply_chain", "competition_and_demand"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-094", "categories": ["regulation_and_legal", "macroeconomic_and_financial"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-095", "categories": ["regulation_and_legal", "macroeconomic_and_financial"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-096", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AAPL-0000320193-25-000079-risk_factors-097", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-000", "categories": ["competition_and_demand", "macroeconomic_and_financial"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-001", "categories": ["export_controls_and_geopolitics", "competition_and_demand"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-002", "categories": ["competition_and_demand"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-003", "categories": ["competition_and_demand"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-004", "categories": ["competition_and_demand"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-005", "categories": ["competition_and_demand", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-006", "categories": ["competition_and_demand", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-007", "categories": ["export_controls_and_geopolitics", "competition_and_demand"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-008", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-009", "categories": ["export_controls_and_geopolitics", "regulation_and_legal", "workforce_and_governance", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-010", "categories": ["export_controls_and_geopolitics", "regulation_and_legal", "workforce_and_governance", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-011", "categories": ["export_controls_and_geopolitics", "regulation_and_legal", "competition_and_demand", "workforce_and_governance"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-012", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-013", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-014", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-015", "categories": ["export_controls_and_geopolitics", "regulation_and_legal", "macroeconomic_and_financial", "climate_and_disasters"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-016", "categories": ["macroeconomic_and_financial", "climate_and_disasters", "competition_and_demand"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-017", "categories": ["macroeconomic_and_financial", "climate_and_disasters", "competition_and_demand"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-018", "categories": ["macroeconomic_and_financial", "competition_and_demand"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-019", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-020", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-021", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-022", "categories": ["intellectual_property"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-023", "categories": ["intellectual_property"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-024", "categories": ["intellectual_property"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-025", "categories": ["intellectual_property"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-026", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-027", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-028", "categories": ["competition_and_demand", "workforce_and_governance", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-029", "categories": ["competition_and_demand", "macroeconomic_and_financial"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-030", "categories": ["competition_and_demand", "macroeconomic_and_financial", "regulation_and_legal", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-031", "categories": ["competition_and_demand", "macroeconomic_and_financial", "regulation_and_legal", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-032", "categories": ["competition_and_demand", "macroeconomic_and_financial", "regulation_and_legal", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-033", "categories": ["competition_and_demand", "macroeconomic_and_financial", "regulation_and_legal", "product_quality_and_liability", "cybersecurity_and_data"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-034", "categories": ["competition_and_demand", "workforce_and_governance", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-035", "categories": ["climate_and_disasters", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-036", "categories": ["supply_chain", "cybersecurity_and_data"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-037", "categories": ["supply_chain", "workforce_and_governance"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-038", "categories": ["supply_chain"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-039", "categories": ["supply_chain", "export_controls_and_geopolitics", "climate_and_disasters"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-040", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-041", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-042", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-043", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-044", "categories": ["cybersecurity_and_data", "climate_and_disasters", "export_controls_and_geopolitics"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-045", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-046", "categories": ["workforce_and_governance"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-047", "categories": ["workforce_and_governance"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-048", "categories": ["workforce_and_governance"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-049", "categories": ["supply_chain"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-050", "categories": ["supply_chain"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-051", "categories": ["competition_and_demand"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-052", "categories": ["supply_chain", "competition_and_demand", "workforce_and_governance"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-053", "categories": ["supply_chain", "competition_and_demand", "workforce_and_governance"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-054", "categories": ["competition_and_demand", "workforce_and_governance", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-055", "categories": ["competition_and_demand", "product_quality_and_liability", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-056", "categories": ["competition_and_demand", "product_quality_and_liability", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-057", "categories": ["macroeconomic_and_financial", "product_quality_and_liability", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-058", "categories": ["supply_chain", "macroeconomic_and_financial", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-059", "categories": ["supply_chain", "macroeconomic_and_financial", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-060", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-061", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-062", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-063", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-064", "categories": ["macroeconomic_and_financial", "competition_and_demand"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-065", "categories": ["macroeconomic_and_financial", "competition_and_demand"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-066", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-067", "categories": ["regulation_and_legal", "cybersecurity_and_data", "product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-068", "categories": ["regulation_and_legal", "competition_and_demand"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-069", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-070", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-071", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-072", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-073", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-074", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-075", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-076", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-077", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-078", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-079", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-080", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-081", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-082", "categories": ["regulation_and_legal"]}
+{"chunk_id": "AMZN-0001018724-26-000004-risk_factors-083", "categories": ["regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-000", "categories": ["competition_and_demand"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-001", "categories": ["competition_and_demand"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-002", "categories": ["competition_and_demand"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-003", "categories": ["competition_and_demand"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-004", "categories": ["competition_and_demand"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-005", "categories": ["competition_and_demand"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-006", "categories": ["competition_and_demand"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-007", "categories": ["competition_and_demand"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-008", "categories": ["competition_and_demand"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-009", "categories": ["competition_and_demand"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-010", "categories": ["competition_and_demand", "macroeconomic_and_financial"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-011", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-012", "categories": ["competition_and_demand", "macroeconomic_and_financial"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-013", "categories": ["competition_and_demand", "macroeconomic_and_financial", "product_quality_and_liability"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-014", "categories": ["supply_chain", "competition_and_demand", "cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-015", "categories": ["supply_chain", "competition_and_demand", "cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-016", "categories": ["competition_and_demand", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-017", "categories": ["competition_and_demand", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-018", "categories": ["competition_and_demand", "workforce_and_governance"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-019", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-020", "categories": ["macroeconomic_and_financial", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-021", "categories": ["macroeconomic_and_financial", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-022", "categories": ["regulation_and_legal", "workforce_and_governance"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-023", "categories": ["regulation_and_legal", "workforce_and_governance"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-024", "categories": ["regulation_and_legal", "workforce_and_governance"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-025", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-026", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-027", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-028", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-029", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-030", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-031", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-032", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-033", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-034", "categories": ["cybersecurity_and_data", "supply_chain"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-035", "categories": ["cybersecurity_and_data", "supply_chain"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-036", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-037", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-038", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-039", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-040", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-041", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-042", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-043", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-044", "categories": ["cybersecurity_and_data", "regulation_and_legal", "product_quality_and_liability"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-045", "categories": ["cybersecurity_and_data", "regulation_and_legal", "product_quality_and_liability"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-046", "categories": ["supply_chain", "cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-047", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-048", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-049", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-050", "categories": ["cybersecurity_and_data", "intellectual_property"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-051", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-052", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-053", "categories": ["regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-054", "categories": ["product_quality_and_liability", "cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-055", "categories": ["product_quality_and_liability", "cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-056", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-057", "categories": ["cybersecurity_and_data", "regulation_and_legal", "product_quality_and_liability"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-058", "categories": ["regulation_and_legal", "product_quality_and_liability", "cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-059", "categories": ["product_quality_and_liability", "regulation_and_legal", "competition_and_demand"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-060", "categories": ["supply_chain", "macroeconomic_and_financial", "cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-061", "categories": ["supply_chain", "cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-062", "categories": ["macroeconomic_and_financial", "supply_chain", "cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-063", "categories": ["regulation_and_legal", "supply_chain", "cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-064", "categories": ["workforce_and_governance", "supply_chain"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-065", "categories": ["supply_chain", "regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-066", "categories": ["supply_chain", "export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-067", "categories": ["supply_chain", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-068", "categories": ["supply_chain", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-069", "categories": ["supply_chain", "cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-070", "categories": ["supply_chain", "cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-071", "categories": ["product_quality_and_liability", "cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-072", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-073", "categories": ["product_quality_and_liability", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-074", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-075", "categories": ["regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-076", "categories": ["regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-077", "categories": ["regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-078", "categories": ["competition_and_demand", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-079", "categories": ["regulation_and_legal", "cybersecurity_and_data"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-080", "categories": ["regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-081", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-082", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-083", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-084", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-085", "categories": ["regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-086", "categories": ["regulation_and_legal", "climate_and_disasters"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-087", "categories": ["regulation_and_legal", "climate_and_disasters"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-088", "categories": ["regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-089", "categories": ["competition_and_demand", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-090", "categories": ["regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-091", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-092", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-093", "categories": ["regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-094", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-095", "categories": ["intellectual_property"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-096", "categories": ["intellectual_property"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-097", "categories": ["intellectual_property"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-098", "categories": ["intellectual_property"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-099", "categories": ["product_quality_and_liability", "cybersecurity_and_data", "regulation_and_legal", "workforce_and_governance"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-100", "categories": ["product_quality_and_liability", "cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-101", "categories": ["macroeconomic_and_financial", "competition_and_demand"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-102", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-103", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-104", "categories": ["climate_and_disasters", "cybersecurity_and_data", "supply_chain", "export_controls_and_geopolitics"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-105", "categories": ["cybersecurity_and_data", "supply_chain"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-106", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-107", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-108", "categories": ["climate_and_disasters"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-109", "categories": ["climate_and_disasters", "macroeconomic_and_financial"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-110", "categories": ["export_controls_and_geopolitics", "macroeconomic_and_financial"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-111", "categories": ["export_controls_and_geopolitics", "macroeconomic_and_financial"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-112", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-113", "categories": ["workforce_and_governance"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-114", "categories": ["workforce_and_governance"]}
+{"chunk_id": "MSFT-0001193125-26-323660-risk_factors-115", "categories": ["workforce_and_governance"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-000", "categories": ["competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-001", "categories": ["competition_and_demand", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-002", "categories": ["macroeconomic_and_financial", "climate_and_disasters", "supply_chain", "competition_and_demand", "product_quality_and_liability", "workforce_and_governance"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-003", "categories": ["regulation_and_legal", "workforce_and_governance", "cybersecurity_and_data", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-004", "categories": ["cybersecurity_and_data", "intellectual_property", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-005", "categories": ["regulation_and_legal", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-006", "categories": ["competition_and_demand", "product_quality_and_liability"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-007", "categories": ["supply_chain", "product_quality_and_liability", "cybersecurity_and_data", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-008", "categories": ["product_quality_and_liability", "supply_chain", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-009", "categories": ["intellectual_property", "product_quality_and_liability"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-010", "categories": ["competition_and_demand", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-011", "categories": ["competition_and_demand", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-012", "categories": ["supply_chain", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-013", "categories": ["supply_chain", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-014", "categories": ["supply_chain", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-015", "categories": ["supply_chain", "competition_and_demand", "product_quality_and_liability"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-016", "categories": ["supply_chain", "product_quality_and_liability"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-017", "categories": ["supply_chain", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-018", "categories": ["supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-019", "categories": ["competition_and_demand", "macroeconomic_and_financial", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-020", "categories": ["competition_and_demand", "macroeconomic_and_financial", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-021", "categories": ["supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-022", "categories": ["supply_chain", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-023", "categories": ["supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-024", "categories": ["supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-025", "categories": ["supply_chain", "product_quality_and_liability"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-026", "categories": ["product_quality_and_liability", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-027", "categories": ["product_quality_and_liability", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-028", "categories": ["supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-029", "categories": ["competition_and_demand", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-030", "categories": ["macroeconomic_and_financial", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-031", "categories": ["macroeconomic_and_financial", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-032", "categories": ["supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-033", "categories": ["supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-034", "categories": ["supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-035", "categories": ["supply_chain", "cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-036", "categories": ["product_quality_and_liability", "cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-037", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-038", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-039", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-040", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-041", "categories": ["macroeconomic_and_financial", "regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-042", "categories": ["macroeconomic_and_financial", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-043", "categories": ["macroeconomic_and_financial", "regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-044", "categories": ["macroeconomic_and_financial", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-045", "categories": ["macroeconomic_and_financial", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-046", "categories": ["export_controls_and_geopolitics", "macroeconomic_and_financial"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-047", "categories": ["macroeconomic_and_financial", "export_controls_and_geopolitics", "climate_and_disasters"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-048", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-049", "categories": ["cybersecurity_and_data", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-050", "categories": ["cybersecurity_and_data", "workforce_and_governance"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-051", "categories": ["cybersecurity_and_data", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-052", "categories": ["cybersecurity_and_data", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-053", "categories": ["cybersecurity_and_data", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-054", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-055", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-056", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-057", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-058", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-059", "categories": ["climate_and_disasters"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-060", "categories": ["climate_and_disasters", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-061", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-062", "categories": ["supply_chain", "climate_and_disasters"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-063", "categories": ["climate_and_disasters"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-064", "categories": []}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-065", "categories": ["supply_chain", "climate_and_disasters"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-066", "categories": ["climate_and_disasters", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-067", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-068", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-069", "categories": []}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-070", "categories": ["competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-071", "categories": ["competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-072", "categories": ["competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-073", "categories": ["intellectual_property", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-074", "categories": ["intellectual_property", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-075", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-076", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-077", "categories": ["supply_chain", "workforce_and_governance", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-078", "categories": ["cybersecurity_and_data", "macroeconomic_and_financial", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-079", "categories": ["supply_chain", "cybersecurity_and_data", "workforce_and_governance"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-080", "categories": ["supply_chain", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-081", "categories": ["supply_chain", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-082", "categories": ["supply_chain", "macroeconomic_and_financial", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-083", "categories": ["export_controls_and_geopolitics", "macroeconomic_and_financial"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-084", "categories": ["regulation_and_legal", "macroeconomic_and_financial"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-085", "categories": ["workforce_and_governance"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-086", "categories": ["workforce_and_governance"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-087", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-088", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-089", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-090", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-091", "categories": ["macroeconomic_and_financial", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-092", "categories": ["regulation_and_legal", "macroeconomic_and_financial"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-093", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-094", "categories": ["regulation_and_legal", "cybersecurity_and_data", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-095", "categories": ["regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-096", "categories": ["regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-097", "categories": ["regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-098", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-099", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-100", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-101", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-102", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-103", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-104", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-105", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-106", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-107", "categories": ["export_controls_and_geopolitics", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-108", "categories": ["export_controls_and_geopolitics", "supply_chain", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-109", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-110", "categories": ["export_controls_and_geopolitics", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-111", "categories": ["export_controls_and_geopolitics", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-112", "categories": ["export_controls_and_geopolitics", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-113", "categories": ["export_controls_and_geopolitics", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-114", "categories": ["export_controls_and_geopolitics", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-115", "categories": ["export_controls_and_geopolitics", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-116", "categories": ["export_controls_and_geopolitics", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-117", "categories": ["export_controls_and_geopolitics", "supply_chain"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-118", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-119", "categories": ["export_controls_and_geopolitics", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-120", "categories": ["export_controls_and_geopolitics", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-121", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-122", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-123", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-124", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-125", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-126", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-127", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-128", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-129", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-130", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-131", "categories": ["export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-132", "categories": ["supply_chain", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-133", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-134", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-135", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-136", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-137", "categories": ["regulation_and_legal", "competition_and_demand"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-138", "categories": ["intellectual_property", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-139", "categories": ["intellectual_property", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-140", "categories": ["intellectual_property"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-141", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-142", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-143", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-144", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-145", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-146", "categories": ["regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-147", "categories": ["regulation_and_legal", "export_controls_and_geopolitics"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-148", "categories": ["export_controls_and_geopolitics", "cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-149", "categories": ["export_controls_and_geopolitics", "cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-150", "categories": ["export_controls_and_geopolitics", "cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-151", "categories": ["regulation_and_legal", "cybersecurity_and_data"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-152", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-153", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-154", "categories": ["macroeconomic_and_financial", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-155", "categories": ["macroeconomic_and_financial", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-156", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-157", "categories": ["macroeconomic_and_financial", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-158", "categories": ["macroeconomic_and_financial", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-159", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-160", "categories": ["regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-161", "categories": ["workforce_and_governance", "regulation_and_legal"]}
+{"chunk_id": "NVDA-0001045810-26-000021-risk_factors-162", "categories": ["workforce_and_governance", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-000", "categories": ["competition_and_demand", "macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-001", "categories": ["competition_and_demand", "macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-002", "categories": ["competition_and_demand", "cybersecurity_and_data", "macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-003", "categories": ["competition_and_demand", "macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-004", "categories": ["supply_chain", "competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-005", "categories": ["supply_chain", "competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-006", "categories": ["supply_chain", "export_controls_and_geopolitics", "cybersecurity_and_data"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-007", "categories": ["supply_chain", "export_controls_and_geopolitics", "cybersecurity_and_data"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-008", "categories": ["supply_chain", "cybersecurity_and_data"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-009", "categories": ["supply_chain", "competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-010", "categories": ["supply_chain"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-011", "categories": ["supply_chain", "regulation_and_legal", "workforce_and_governance"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-012", "categories": ["supply_chain", "regulation_and_legal", "workforce_and_governance"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-013", "categories": ["competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-014", "categories": ["competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-015", "categories": ["supply_chain", "competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-016", "categories": ["supply_chain", "workforce_and_governance"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-017", "categories": ["regulation_and_legal", "supply_chain", "competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-018", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-019", "categories": ["supply_chain"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-020", "categories": ["supply_chain"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-021", "categories": ["supply_chain"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-022", "categories": ["supply_chain", "macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-023", "categories": ["supply_chain", "macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-024", "categories": ["competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-025", "categories": ["competition_and_demand", "macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-026", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-027", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-028", "categories": ["competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-029", "categories": ["competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-030", "categories": ["competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-031", "categories": ["competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-032", "categories": ["competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-033", "categories": ["competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-034", "categories": ["supply_chain", "product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-035", "categories": ["supply_chain", "product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-036", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-037", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-038", "categories": ["export_controls_and_geopolitics", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-039", "categories": ["supply_chain", "product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-040", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-041", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-042", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-043", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-044", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-045", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-046", "categories": ["workforce_and_governance", "competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-047", "categories": ["workforce_and_governance", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-048", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-049", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-050", "categories": ["competition_and_demand", "macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-051", "categories": ["competition_and_demand", "macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-052", "categories": ["product_quality_and_liability", "macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-053", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-054", "categories": ["workforce_and_governance"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-055", "categories": ["workforce_and_governance"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-056", "categories": ["workforce_and_governance"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-057", "categories": ["workforce_and_governance"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-058", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-059", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-060", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-061", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-062", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-063", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-064", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-065", "categories": ["cybersecurity_and_data"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-066", "categories": ["workforce_and_governance", "competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-067", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-068", "categories": ["product_quality_and_liability", "workforce_and_governance"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-069", "categories": []}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-070", "categories": []}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-071", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-072", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-073", "categories": ["product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-074", "categories": ["regulation_and_legal", "product_quality_and_liability"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-075", "categories": ["regulation_and_legal", "macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-076", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-077", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-078", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-079", "categories": []}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-080", "categories": ["macroeconomic_and_financial", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-081", "categories": ["macroeconomic_and_financial", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-082", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-083", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-084", "categories": ["intellectual_property"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-085", "categories": ["intellectual_property"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-086", "categories": ["intellectual_property"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-087", "categories": ["intellectual_property"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-088", "categories": ["climate_and_disasters"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-089", "categories": ["climate_and_disasters"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-090", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-091", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-092", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-093", "categories": []}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-094", "categories": ["competition_and_demand", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-095", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-096", "categories": ["regulation_and_legal", "climate_and_disasters"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-097", "categories": ["regulation_and_legal", "workforce_and_governance"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-098", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-099", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-100", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-101", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-102", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-103", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-104", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-105", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-106", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-107", "categories": ["cybersecurity_and_data", "regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-108", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-109", "categories": []}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-110", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-111", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-112", "categories": ["regulation_and_legal"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-113", "categories": ["macroeconomic_and_financial", "competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-114", "categories": ["regulation_and_legal", "macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-115", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-116", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-117", "categories": ["macroeconomic_and_financial"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-118", "categories": ["competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-119", "categories": ["competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-120", "categories": ["competition_and_demand"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-121", "categories": ["workforce_and_governance"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-122", "categories": ["workforce_and_governance"]}
+{"chunk_id": "TSLA-0001628280-26-003952-risk_factors-123", "categories": ["regulation_and_legal"]}
