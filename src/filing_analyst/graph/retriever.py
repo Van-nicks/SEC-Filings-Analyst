@@ -11,7 +11,7 @@ No embedding of the corpus and no writes happen here. Safe to call from an agent
 from functools import lru_cache
 
 from langchain_neo4j import Neo4jVector
-from neo4j import GraphDatabase
+from neo4j import GraphDatabase, NotificationMinimumSeverity
 
 from filing_analyst.config import (
     INDEX_NAME,
@@ -25,8 +25,12 @@ from filing_analyst.llm.models import get_embeddings
 
 @lru_cache(maxsize=1)
 def get_driver():
-    """Return a shared Neo4j driver for read-only Cypher queries."""
-    return GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USERNAME, NEO4J_PASSWORD))
+    """Return a shared Neo4j driver for read-only Cypher queries (with DBMS warning spam disabled)."""
+    return GraphDatabase.driver(
+        NEO4J_URI,
+        auth=(NEO4J_USERNAME, NEO4J_PASSWORD),
+        warn_notification_severity=NotificationMinimumSeverity.OFF,
+    )
 
 
 @lru_cache(maxsize=1)
@@ -69,7 +73,18 @@ def search_chunks(
     risk_category: str | None = None,
     k: int = TOP_K,
 ) -> list[dict]:
-    """Embed `query` with Titan and run vector similarity search, narrowed by optional graph filters."""
+    """Search 10-K filing text chunks by semantic similarity and optional graph filters.
+
+    Args:
+        query: Natural-language search query.
+        ticker: Optional company ticker ('AAPL', 'MSFT', 'NVDA', 'AMZN', 'TSLA').
+        section: Optional 10-K section ('business' or 'risk_factors').
+        risk_category: Optional risk category name ('supply_chain', 'export_controls_and_geopolitics',
+            'cybersecurity_and_data', 'regulation_and_legal', 'competition_and_demand',
+            'macroeconomic_and_financial', 'intellectual_property', 'workforce_and_governance',
+            'product_quality_and_liability', 'climate_and_disasters').
+        k: Number of top chunks to return (default 3).
+    """
     query_vector = get_embeddings().embed_query(query)
     candidate_k = max(k * 10, 40) if (ticker or section or risk_category) else k
     records, _, _ = get_driver().execute_query(
@@ -82,7 +97,6 @@ def search_chunks(
           AND ($risk_category IS NULL OR EXISTS {
               MATCH (c)-[:MENTIONS_RISK]->(:RiskCategory {name: $risk_category})
           })
-        OPTIONAL MATCH (c)-[:MENTIONS_RISK]->(rc:RiskCategory)
         RETURN c.chunk_id AS chunk_id,
                co.ticker AS ticker,
                co.name AS company,
@@ -93,7 +107,7 @@ def search_chunks(
                c.source AS source,
                c.start_index AS start_index,
                c.text AS text,
-               collect(rc.name) AS risk_categories,
+               [(c)-[:MENTIONS_RISK]->(rc:RiskCategory) | rc.name] AS risk_categories,
                score
         ORDER BY score DESC
         LIMIT $k
@@ -114,7 +128,13 @@ def query_facts(
     metric: str | None = None,
     fiscal_year: int | None = None,
 ) -> list[dict]:
-    """Look up structured numeric Fact nodes via (:Company)-[:FILED]->(:Filing)-[:REPORTS]->(:Fact)."""
+    """Look up structured numeric financial facts from Neo4j.
+
+    Args:
+        ticker: Optional company ticker ('AAPL', 'MSFT', 'NVDA', 'AMZN', 'TSLA').
+        metric: Optional metric name ('revenue', 'net_income', 'total_assets').
+        fiscal_year: Optional fiscal year as integer (e.g. 2024, 2025, 2026).
+    """
     records, _, _ = get_driver().execute_query(
         """
         MATCH (co:Company)-[:FILED]->(f:Filing)-[:REPORTS]->(fa:Fact)
@@ -140,7 +160,14 @@ def query_facts(
 
 
 def query_companies_by_risk(risk_category: str) -> list[dict]:
-    """Return every company that cites `risk_category`, with chunk count and sample chunk IDs."""
+    """Return every company that cites `risk_category`, with chunk count and sample chunk IDs.
+
+    Args:
+        risk_category: One of 'supply_chain', 'export_controls_and_geopolitics',
+            'cybersecurity_and_data', 'regulation_and_legal', 'competition_and_demand',
+            'macroeconomic_and_financial', 'intellectual_property', 'workforce_and_governance',
+            'product_quality_and_liability', 'climate_and_disasters'.
+    """
     records, _, _ = get_driver().execute_query(
         """
         MATCH (co:Company)-[:FILED]->(f:Filing)-[:HAS_CHUNK]->(c:Chunk)-[:MENTIONS_RISK]->(rc:RiskCategory {name: $risk_category})

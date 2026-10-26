@@ -27,7 +27,7 @@ MIN_CHUNK_CHARS = 150   # chunks shorter than this are merged into the next chun
 
 # --- Amazon Bedrock Models ---
 EMBEDDING_MODEL_ID = "amazon.titan-embed-text-v2:0"
-CHAT_MODEL_ID = os.getenv("BEDROCK_CHAT_MODEL_ID", "amazon.nova-micro-v1:0")
+CHAT_MODEL_ID = os.getenv("BEDROCK_CHAT_MODEL_ID", "eu.anthropic.claude-sonnet-5-5")
 AWS_REGION = os.getenv("AWS_DEFAULT_REGION")
 
 # --- Neo4j ---
