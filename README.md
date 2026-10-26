@@ -33,6 +33,25 @@ Downloads the latest 10-K business and risk-factor sections to `data/raw/` and k
 python -m filing_analyst.ingest.sec_fetch
 ```
 
+## Build the vector index (run once)
+
+Embeds `data/processed/facts.csv` with Bedrock Titan and stores it in Neo4j. Skips automatically if the index is already built; use `--force` to wipe the `FactChunk` nodes and rebuild:
+
+```bash
+python -m filing_analyst.graph.build_index [--force]
+```
+
+## Query (every request)
+
+Connects to the existing index and embeds only the question text:
+
+```python
+from filing_analyst.graph.retriever import retrieve
+docs = retrieve("What was Apple's revenue in 2024?")
+```
+
+Quick manual test: `python -m filing_analyst.graph.retriever`
+
 ## Naming
 
 The names differ on purpose and should be left as they are:
